@@ -2,6 +2,8 @@
 
 My solutions and work for the 14-week Deep Learning course.
 
+**Lecturer:** Eng. Ahmed Métwalli
+
 ## Weekly Outline
 - **W01** Intro to DL & TensorFlow/Keras; Colab/conda setup; tensors & gradients
 - **W02** Perceptron & MLP; activations; initialization; He/Xavier
